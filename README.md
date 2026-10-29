@@ -35,7 +35,6 @@ const vincent = {
 - 🔨 Je construis des projets de cours (et quelques-uns pour le plaisir)
 - 🌱 J'approfondis le développement **full-stack** : API en ASP.NET Core + interface en React et TypeScript
 - 📱 Je développe des **applications mobiles Android** en Kotlin
-- 🗄️ J'apprends à écrire des requêtes SQL qui ne font pas pleurer la base de données
 
 ### 📫 Me joindre
 
