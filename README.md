@@ -1,7 +1,8 @@
 <h1 align="center">Salut, moi c'est Vincent 👋</h1>
 
 <p align="center">
-  <em>Je transforme du café ☕ en code… et parfois en bogues 🐛</em>
+  <em>Building a better future™
+un Console.WriteLine() à la fois.</em>
 </p>
 
 ---
